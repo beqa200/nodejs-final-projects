@@ -1,6 +1,4 @@
-# Final Project Documentation
-
-## Project: Task Management Platform Backend API
+# Project 2: Task Management Platform Backend API
 
 ---
 
